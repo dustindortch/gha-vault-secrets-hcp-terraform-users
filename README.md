@@ -18,6 +18,7 @@ block-beta
     block:c3
       e space f
     end
+    space
     block:c4
       g space h
     end
